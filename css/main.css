@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.toolbarwidth{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+  .md-drawer {
+    width: 230px;
+    max-width: calc(100vw - 125px);
+  }
+
+  .md-content {
+    padding: 16px;
+  }
+
+.warningTXT {
+    margin-left: 10%;
+
+    color: #c0392b;
+}
+
+.drawer {
+    margin-top: 30px;
+}
